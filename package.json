@@ -1,0 +1,24 @@
+{
+  "name": "npm-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gurinder321/npm-folder.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gurinder321/npm-folder/issues"
+  },
+  "homepage": "https://github.com/Gurinder321/npm-folder#readme",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "moment": "^2.29.1",
+    "parcel-bundler": "^1.12.5"
+  }
+}
